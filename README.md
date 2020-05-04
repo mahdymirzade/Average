@@ -1,15 +1,27 @@
 # Average
 My Calculators for School Score Average...
 
-# Idea
 The idea is that I want to write score average program in languages that I work with.
 Nothing special about it; Just making my 1st repository.
 
-# Python
-You should install python and after that, you can use these commands:
-##### Get Average Repo
+
+# Get Average Repo
 `git clone https://github.com/mahdymirzade/Average.git && cd Average`
-##### Run Code
+After this, you can continue...
+
+# Python
+First of all, you need to install python.
+### Install Python on Gnu/Linux
+##### Arch
+`sudo pacman -S python`
+##### CentOS
+`sudo yum install python`
+##### Fedora
+`sudo dnf install python`
+##### Ubuntu
+`sudo apt-get install python`
+
+You should install python package and after that, you can use this commands:
 `python python.py`
 
 # Other
