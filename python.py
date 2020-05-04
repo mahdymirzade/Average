@@ -24,7 +24,7 @@ def Average():
     cAverage = sum(ScoreList) / Scores
     sleep(1)
     print ('- - - - - - - - - - - - - - - - - - - - -')
-    print ('|             [Your average is: [{}]]    |'.format(round(cAverage, 2)))
+    print ('|         [Your average is: [{}]]         |'.format(round(cAverage, 2)))
     print ('- - - - - - - - - - - - - - - - - - - - -')
     CheckExit()
 
