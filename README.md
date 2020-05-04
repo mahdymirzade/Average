@@ -12,7 +12,7 @@ After this, you can continue...
 
 # Python
 First of all, you need to install python.
-#### Install Python on Gnu/Linux
+### Install Python on Gnu/Linux
 ##### Arch
 `sudo pacman -S python`
 ##### CentOS
@@ -21,7 +21,7 @@ First of all, you need to install python.
 `sudo dnf install python`
 ##### Ubuntu
 `sudo apt-get install python`
-#### Run Program
+### Run Program
 You should install python package and after that, you can use this commands:
 
 `python python.py`
