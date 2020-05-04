@@ -26,5 +26,5 @@ You should install python package and after that, you can use this commands:
 
 `python python.py`
 
-# Other
+# More
 // To Cancel Process use *CTRL + C*
