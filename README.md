@@ -7,6 +7,7 @@ Nothing special about it; Just making my 1st repository.
 
 # Get Average Repo
 `git clone https://github.com/mahdymirzade/Average.git && cd Average`
+
 After this, you can continue...
 
 # Python
@@ -22,6 +23,7 @@ First of all, you need to install python.
 `sudo apt-get install python`
 #### Run Program
 You should install python package and after that, you can use this commands:
+
 `python python.py`
 
 # Other
